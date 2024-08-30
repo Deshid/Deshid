@@ -1,4 +1,3 @@
-### Hi there ヽ(*・ω・)ﾉ
 <h1 align="center">Hi there ヽ(*・ω・)ﾉ I'm Deshi</h1>
 <h3 align="center">Learning database and some code. I am a computer engineering student! Just spanish for the moment (= ⩊ = )</h3>
 
