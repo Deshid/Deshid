@@ -1,6 +1,6 @@
 <h1 align="center">Hi there ヽ(*・ω・)ﾉ I'm Deshi</h1>
 <h3 align="center">Learning database and some code. I am a computer engineering student!</h3>
-<h3 align="center"> Just spanish for the moment (= ⩊ = )</h3>
+<h3 align="center"> Just spanish for the moment (= ⩊ = ) taco taco </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deshid&label=Profile%20views&color=0e75b6&style=flat" alt="deshid" /> </p>
 
